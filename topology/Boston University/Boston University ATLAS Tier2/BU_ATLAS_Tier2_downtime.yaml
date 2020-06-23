@@ -84,3 +84,14 @@
   - CE
   - SRMv2
 # ---------------------------------------------------------
+- Class: UNSCHEDULED
+  ID: 579006304
+  Description: Scheduled downtime to repair GPFS server issue
+  Severity: Outage
+  StartTime: Jun 23, 2020 13:00 +0000
+  EndTime: Jun 23, 2020 21:00 +0000
+  CreatedTime: Jun 23, 2020 03:23 +0000
+  ResourceName: NET2
+  Services:
+  - SRMv2
+# ---------------------------------------------------------
