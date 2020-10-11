@@ -108,3 +108,15 @@
   Services:
   - CE
 # ---------------------------------------------------------
+- Class: SCHEDULED
+  ID: 674691428
+  Description: Annual MGHPCC power maintenance
+  Severity: Outage
+  StartTime: Oct 19, 2020 09:00 +0000
+  EndTime: Oct 21, 2020 09:00 +0000
+  CreatedTime: Oct 11, 2020 21:19 +0000
+  ResourceName: NET2
+  Services:
+  - CE
+  - SRMv2
+# ---------------------------------------------------------
